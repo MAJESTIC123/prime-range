@@ -2,7 +2,7 @@ package logics;
 
 import java.util.Scanner;
 
-public class PrimeNumberRange {
+public class Prime Range {
 public static void main(String[] args) {
 	
 	System.out.println("Enter the starting range");
